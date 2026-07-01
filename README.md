@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there!+I'm+Vimukthi+👋;Software+Engineer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="./assets/title-main.svg" alt="Hi there! I'm Vimukthi" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 -----
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=🚀+My+Awesome+Projects;🌟+What+I've+been+building;💻+Open+Source+Works" alt="Projects Typing SVG" />
+  <img src="./assets/title-projects.svg" alt="My Awesome Projects" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=🛠️+Languages+and+Tools;Tech+Stack" alt="Tools Typing SVG" />
+  <img src="./assets/title-tools.svg" alt="Languages and Tools" />
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@
 -----
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=📈+GitHub+Stats;My+Contributions" alt="Stats Typing SVG" />
+  <img src="./assets/title-stats.svg" alt="GitHub Stats" />
 </div>
 
 <div align="center">

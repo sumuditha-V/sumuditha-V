@@ -1,0 +1,13 @@
+<svg width="600" height="80" viewBox="0 0 600 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-3px); }
+      100% { transform: translateY(0px); }
+    }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 32px; fill: #58A6FF; animation: float 3s ease-in-out infinite; text-anchor: middle; }
+    .subtitle { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 16px; fill: #8b949e; text-anchor: middle; }
+  </style>
+  <text x="300" y="40" class="title">Hi there! I'm Vimukthi 👋</text>
+  <text x="300" y="70" class="subtitle">Software Engineer • AI Enthusiast • Problem Solver</text>
+</svg>
